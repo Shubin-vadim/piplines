@@ -148,4 +148,4 @@ venv.bak/
 cython_debug/
 
 # PyCharm
-.idea
+.idea/
